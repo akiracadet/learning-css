@@ -24,3 +24,6 @@
 
 * Specificity Calculator
   - https://specificity.keegan.st/
+
+* Flexbox Challenges
+  - https://flexboxfroggy.com/
