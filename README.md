@@ -19,5 +19,8 @@
 * Fonts
   - https://fonts.google.com/
 
+* Unicode Characters
+  - https://symbl.cc/en/
+
 * Specificity Calculator
   - https://specificity.keegan.st/
