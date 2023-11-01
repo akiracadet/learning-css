@@ -12,3 +12,6 @@
 
 * Accessibility
   - https://webaim.org/
+
+* Fonts
+  - https://fonts.google.com/
