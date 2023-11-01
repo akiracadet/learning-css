@@ -15,3 +15,6 @@
 
 * Fonts
   - https://fonts.google.com/
+
+* Specificity Calculator
+  - https://specificity.keegan.st/
