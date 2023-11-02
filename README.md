@@ -1,5 +1,8 @@
 -- CSS Tools
 
+* Check for browser support of css rule
+  - https://caniuse.com/
+
 * Website for trying out css and checking other users css
   - https://codepen.io/
 
