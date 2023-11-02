@@ -1,0 +1,5 @@
+* Resource Link
+  - https://youtu.be/n4R2E7O-Ngo
+
+* Code Repository
+  - https://github.com/gitdagray/css_course

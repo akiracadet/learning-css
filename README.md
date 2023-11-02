@@ -27,3 +27,6 @@
 
 * Flexbox Challenges
   - https://flexboxfroggy.com/
+
+* CSS Grid Challenges
+  - https://cssgridgarden.com/
